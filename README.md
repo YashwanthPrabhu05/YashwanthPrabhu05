@@ -1,2 +1,2 @@
-Emerging UI/UX Designer
+Emerging UI/UX Designer |
 Driven by design thinking
