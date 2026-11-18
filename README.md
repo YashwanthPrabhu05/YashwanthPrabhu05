@@ -12,7 +12,7 @@
 
 ### Featured Work
 
-🌐 **Portfolio:** https://yashwanthuxdesigner.framer.website
+🌐 **Portfolio:** https://yashwanthprabhu.vercel.app
 
 
 ### Connect
