@@ -11,9 +11,9 @@
 
 ### Connect
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/YashwanthPrabhu05">
   <img src="https://img.shields.io/badge/GitHub-Yashwanth_Prabhu-0969DA?style=flat-square&logo=github&logoColor=white" />
-</a><a href="YOUR_LINKEDIN_URL">
+</a><a href="https://www.linkedin.com/in/yashwanth-prabhu-474a37269/">
   <img src="https://img.shields.io/badge/LinkedIn-Yashwanth_Prabhu-0969DA?style=flat-square&logo=linkedin&logoColor=white" />
 </a><a href="https://yashwanthprabhu.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-yashwanthuxdesigner.framer.website-FF5722?style=flat-square&logo=googlechrome&logoColor=white" />
